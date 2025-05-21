@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Application\\Microondas.Application.csproj": {}
+    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Application\\Microondas.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Application\\Microondas.Application.csproj": {
+    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Application\\Microondas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Application\\Microondas.Application.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Application\\Microondas.Application.csproj",
         "projectName": "Microondas.Application",
-        "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Application\\Microondas.Application.csproj",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Application\\Microondas.Application.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Application\\obj\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",

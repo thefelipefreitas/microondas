@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Infrastructure\\Microondas.Infrastructure.csproj": {}
+    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Infrastructure\\Microondas.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Infrastructure\\Microondas.Infrastructure.csproj": {
+    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Infrastructure\\Microondas.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Infrastructure\\Microondas.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Infrastructure\\Microondas.Infrastructure.csproj",
         "projectName": "Microondas.Infrastructure",
-        "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Infrastructure\\Microondas.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Infrastructure\\Microondas.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",

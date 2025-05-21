@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8g8kNE//4p5gK+r1kvGZnmmY+7W6UfzsyIygRNnpJ3T6wB7nrpXIW9xYDes7AD1n/6Yj48jBUrbZ9Oa2CE6j/A==",
+  "dgSpecHash": "kBU0yqPYSaP6TCkwNTt20r9fdrSjPs3m5rLpqkojIdxwxchX+b2iJpkDOq/jxpurzmp4fXpYdc/3er4fBUav6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Domain\\Microondas.Domain.csproj",
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Domain\\Microondas.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

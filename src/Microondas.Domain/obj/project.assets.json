@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Domain\\Microondas.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Domain\\Microondas.Domain.csproj",
       "projectName": "Microondas.Domain",
-      "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Domain\\Microondas.Domain.csproj",
+      "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Domain\\Microondas.Domain.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Domain\\obj\\",
+      "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",

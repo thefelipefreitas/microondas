@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lYWD99SskMYA37XRryK9ja1TR+uXud/g5FLY4S9IfNTMs08pPLfdx56JqxxBtnlFzoHNY/tG73CEJpLcMGVWjw==",
+  "dgSpecHash": "isXioEqWEGyPlUGeRqqDHLn1XTu2h51x9xjhgtkT3+C4FNWctAkEfFV7Jx9JjDG9BxKtEB4HiFsWPdYYhHsC9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.WebApi\\Microondas.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.WebApi\\Microondas.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

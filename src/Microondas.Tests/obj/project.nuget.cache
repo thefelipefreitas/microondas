@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LNKl4AVqjWsvHuDzoTE59w864X5jIpXY9fJkBJJJEySzC0makSU336RPt32h4ZKDbZI1dkUZ6t7dgWY7X76q9Q==",
+  "dgSpecHash": "D97EwyVeEFeBKU2a1/7Jt9oQn9n4oLW6L3o5fzlqS/eUUwF8wgy/SF9a8n8sZkM3K0bgEhec6xM/S9K88kEXBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\Microondas.Tests\\Microondas.Tests.csproj",
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\MicroondasProj\\src\\Microondas.Tests\\Microondas.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
