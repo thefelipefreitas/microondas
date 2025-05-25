@@ -15,7 +15,7 @@ export interface IniciaAquecimentoResponse {
   providedIn: 'root'
 })
 export class MicroondasService {
-  private baseUrl = '/api/microondas'; // o proxy redireciona para o backend
+  private baseUrl = 'http://localhost:5162/api/microondas';
 
   constructor(private http: HttpClient) {}
 
