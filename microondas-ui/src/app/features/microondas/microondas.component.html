@@ -1,0 +1,23 @@
+<div class="microondas-container">
+  <h2>Microondas</h2>
+  <form (ngSubmit)="iniciar()" #form="ngForm">
+    <div>
+      <label for="tempo">Tempo (s):</label>
+      <input type="number" [(ngModel)]="tempoSegundos" name="tempo" min="1" max="120">
+    </div>
+    <div>
+      <label for="potencia">Potência (1-10):</label>
+      <input type="number" [(ngModel)]="potencia" name="potencia" min="1" max="10">
+    </div>
+    <button type="submit">Iniciar Aquecimento</button>
+  </form>
+
+  <div *ngIf="progresso" class="resultado">
+    <strong>Resultado:</strong>
+    <p>{{ progresso }}</p>
+  </div>
+  <div *ngIf="error" class="erro">
+    <strong>Erro:</strong>
+    <p>{{ error }}</p>
+  </div>
+</div>
