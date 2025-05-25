@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Microondas.Infrastructure/1.0.0": {
+        "runtime": {
+          "Microondas.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microondas.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

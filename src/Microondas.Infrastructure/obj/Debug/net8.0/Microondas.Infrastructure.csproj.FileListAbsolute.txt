@@ -1,0 +1,12 @@
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\bin\Debug\net8.0\Microondas.Infrastructure.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\bin\Debug\net8.0\Microondas.Infrastructure.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\bin\Debug\net8.0\Microondas.Infrastructure.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\obj\Debug\net8.0\Microondas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\obj\Debug\net8.0\Microondas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\obj\Debug\net8.0\Microondas.Infrastructure.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\obj\Debug\net8.0\Microondas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\obj\Debug\net8.0\Microondas.Infrastructure.sourcelink.json
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\obj\Debug\net8.0\Microondas.Infrastructure.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\obj\Debug\net8.0\refint\Microondas.Infrastructure.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\obj\Debug\net8.0\Microondas.Infrastructure.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Infrastructure\obj\Debug\net8.0\ref\Microondas.Infrastructure.dll

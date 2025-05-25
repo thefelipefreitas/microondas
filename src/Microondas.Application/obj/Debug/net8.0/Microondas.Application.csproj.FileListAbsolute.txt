@@ -1,0 +1,16 @@
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\bin\Debug\net8.0\Microondas.Application.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\bin\Debug\net8.0\Microondas.Application.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\bin\Debug\net8.0\Microondas.Application.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\bin\Debug\net8.0\Microondas.Domain.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\bin\Debug\net8.0\Microondas.Domain.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\Microondas.Application.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\Microondas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\Microondas.Application.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\Microondas.Application.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\Microondas.Application.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\Microondas.Application.sourcelink.json
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\Microond.1F54BFDB.Up2Date
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\Microondas.Application.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\refint\Microondas.Application.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\Microondas.Application.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Application\obj\Debug\net8.0\ref\Microondas.Application.dll

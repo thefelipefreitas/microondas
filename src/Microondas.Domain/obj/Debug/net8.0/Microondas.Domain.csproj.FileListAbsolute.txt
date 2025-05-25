@@ -1,0 +1,12 @@
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\bin\Debug\net8.0\Microondas.Domain.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\bin\Debug\net8.0\Microondas.Domain.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\bin\Debug\net8.0\Microondas.Domain.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\obj\Debug\net8.0\Microondas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\obj\Debug\net8.0\Microondas.Domain.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\obj\Debug\net8.0\Microondas.Domain.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\obj\Debug\net8.0\Microondas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\obj\Debug\net8.0\Microondas.Domain.sourcelink.json
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\obj\Debug\net8.0\Microondas.Domain.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\obj\Debug\net8.0\refint\Microondas.Domain.dll
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\obj\Debug\net8.0\Microondas.Domain.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\MicroondasProj\src\Microondas.Domain\obj\Debug\net8.0\ref\Microondas.Domain.dll
