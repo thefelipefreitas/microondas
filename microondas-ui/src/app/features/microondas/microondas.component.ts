@@ -29,4 +29,14 @@ export class MicroondasComponent {
       error: err => this.error = err.error?.erro || 'Erro ao iniciar aquecimento.'
     });
   }
+
+  inicioRapido() {
+    this.error = '';
+    this.progresso = '';
+
+    this.microondasService.iniciarAquecimento({}).subscribe({
+      next: (res: IniciaAquecimentoResponse) => this.progresso = res.progresso,
+      error: err => this.error = err.error?.erro || 'Erro ao iniciar o aquecimento rápido.'
+    });
+  }
 }
