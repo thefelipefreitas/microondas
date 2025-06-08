@@ -13,9 +13,13 @@
   </form>
   <button type="button" (click)="inicioRapido()">Início Rápido</button>
 
-  <div *ngIf="progresso" class="resultado">
+  <div *ngIf="outputLinhas.length > 0" class="resultado">
     <strong>Resultado:</strong>
-    <p>{{ progresso }}</p>
+    <pre>
+      <ng-container *ngFor="let line of outputLinhas">
+        {{ line }}
+      </ng-container>
+    </pre>
   </div>
   <div *ngIf="error" class="erro">
     <strong>Erro:</strong>

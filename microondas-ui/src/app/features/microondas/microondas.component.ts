@@ -15,28 +15,61 @@ export class MicroondasComponent {
   progresso = '';
   error = '';
 
+  intervaloId: any;
+  linhaAtual = 0;
+  outputLinhas: string[] = [];
+
   constructor(private microondasService: MicroondasService) {}
 
   iniciar() {
     this.error = '';
-    this.progresso = '';
+    
+    if (this.tempoSegundos === undefined || this.potencia === undefined) {
+      this.error = 'Por favor, informe o tempo e a potência.';
+      return;
+    }
+    
+    if (this.tempoSegundos <= 0 || this.potencia <= 0) {
+      this.error = 'Tempo e potência devem ser maiores que zero.';
+      return;
+    }
 
-    this.microondasService.iniciarAquecimento({
-      tempoSegundos: this.tempoSegundos,
-      potencia: this.potencia
-    }).subscribe({
-      next: (res: IniciaAquecimentoResponse) => this.progresso = res.progresso,
-      error: err => this.error = err.error?.erro || 'Erro ao iniciar aquecimento.'
-    });
+    this.enviarRequisicao(this.tempoSegundos, this.potencia);
   }
 
   inicioRapido() {
-    this.error = '';
-    this.progresso = '';
+    this.enviarRequisicao(undefined, undefined);
+  }
 
-    this.microondasService.iniciarAquecimento({}).subscribe({
-      next: (res: IniciaAquecimentoResponse) => this.progresso = res.progresso,
-      error: err => this.error = err.error?.erro || 'Erro ao iniciar o aquecimento rápido.'
+  private enviarRequisicao(tempo?: number, potencia?: number) {
+    this.progresso = '';
+    this.error = '';
+    this.outputLinhas = [];
+    clearInterval(this.intervaloId);
+
+    this.microondasService.iniciarAquecimento({ tempoSegundos: tempo, potencia }).subscribe({
+      next: (res: IniciaAquecimentoResponse) => {
+        this.executarAnimacao(res.tempoSegundos, res.potencia);
+      },
+      error: err => {
+        this.error = err.error?.erro || 'Erro ao iniciar aquecimento.';
+        clearInterval(this.intervaloId);
+      }
     });
+  }
+
+  executarAnimacao(tempo: number, potencia: number) {
+    this.linhaAtual = 0;
+    this.outputLinhas = [];
+
+    this.intervaloId = setInterval(() => {
+      if (this.linhaAtual < tempo) {
+        this.outputLinhas.push('.'.repeat(potencia));
+        this.linhaAtual++;
+      } else {
+        this.outputLinhas.push('Aquecimento concluído.');
+        clearInterval(this.intervaloId);
+      }
+    }, 1000);
   }
 }

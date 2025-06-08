@@ -20,7 +20,7 @@ public class MicroondasController : ControllerBase
         try
         {
             var result = _service.IniciarAquecimento(request);
-            return Ok(new { result.Progresso });
+            return Ok(new { result.TempoSegundos, result.Potencia, result.Progresso });
         }
         catch (ArgumentException ex)
         {

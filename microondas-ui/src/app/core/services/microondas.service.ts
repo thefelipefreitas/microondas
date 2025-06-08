@@ -9,6 +9,8 @@ export interface IniciaAquecimentoRequest {
 
 export interface IniciaAquecimentoResponse {
   progresso: string;
+  tempoSegundos: number;
+  potencia: number;
 }
 
 @Injectable({
