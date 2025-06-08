@@ -1,3 +1,5 @@
+using Microondas.Application.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddEndpointsApiExplorer();
@@ -13,6 +15,8 @@ builder.Services.AddCors(options =>
     );
 });
 
+builder.Services.AddScoped<IMicroondasService, MicroondasService>();
+
 var app = builder.Build();
 
 app.UseCors("AllowAngularApp");
@@ -24,7 +28,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+
+// app.UseHttpsRedirection();
 
 app.MapControllers();
 

@@ -3,7 +3,7 @@ using Microondas.Domain.Entities;
 
 namespace Microondas.Application.Services;
 
-public class MicroondasService
+public class MicroondasService : IMicroondasService
 {
     public MicroondasState IniciarAquecimento(IniciarAquecimentoRequest request)
     {

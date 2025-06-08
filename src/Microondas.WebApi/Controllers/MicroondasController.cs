@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using Microondas.Application.DTOs;
-using Microondas.Application.Services;
 
 namespace Microondas.WebApi.Controllers;
 
@@ -8,11 +7,11 @@ namespace Microondas.WebApi.Controllers;
 [Route("api/[controller]")]
 public class MicroondasController : ControllerBase
 {
-    private readonly MicroondasService _service;
+    private readonly IMicroondasService _service;
 
-    public MicroondasController()
+    public MicroondasController(IMicroondasService service)
     {
-        _service = new MicroondasService(); // injeção de dependência
+        _service = service;
     }
 
     [HttpPost("Iniciar")]
